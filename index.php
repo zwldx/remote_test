@@ -80,9 +80,11 @@
 //  $redis->set('cat', 222);
 //  echo $redis->get('cat'); // 222
 
-$arr = [
-    ['a','b'],
-    'b'
-];
+// $arr = [
+//     ['a','b'],
+//     'b'
+// ];
 
-echo in_array('a',$arr);
+// echo in_array('a',$arr);
+// $r = new Redis;
+// $r->connect('');
