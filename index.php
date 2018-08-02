@@ -89,4 +89,5 @@
 // $r = new Redis;
 // $r->connect('');
 print_r($_SERVER);
+// var_dump(null==false);
 
