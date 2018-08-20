@@ -88,6 +88,6 @@
 // echo in_array('a',$arr);
 // $r = new Redis;
 // $r->connect('');
-print_r($_SERVER);
+// print_r($_SERVER);
 // var_dump(null==false);
-
+echo 0;
